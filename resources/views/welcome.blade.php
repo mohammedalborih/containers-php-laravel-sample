@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Welcome to Back4app Contianers</title>
+        <title>البريهي يحييكم من مشروعه على السحابة</title>
 
         <!-- CSS -->
         <link href="{{ asset('css/styles.css') }}" rel="stylesheet">
